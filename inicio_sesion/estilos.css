@@ -44,10 +44,10 @@ body {
 
   .logo{
     display: flex;
-    height: 400px;
-    top: -15%;
-    left: -15%;
-    position: absolute;
+    height: 100px;
+    top: 0%;
+    left: 0%;
+  position: absolute;
   }
 
   .login-box {
